@@ -32,7 +32,7 @@
         ":phone_number" => $phoneNumber
       ]);
   
-      header("Location: index.php");
+      header("Location: home.php");
     }
   }
 ?>
